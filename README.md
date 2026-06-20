@@ -1,23 +1,18 @@
-👋 Hi, I'm Busisiwe Zulu!
+# SQLite Basics Project
 
-💼 Current Role:  
-I currently work in Sales with a strong interest in transitioning into software development.
+## This is a simple SQLite project created as part of my software engineering learning journey. It demonstrates basic database concepts.
 
-🎓 Education:  
-Software Engineering student at HyperionDev.
+## What This Project Covers
+- Creating tables
+- Inserting data
+- Retrieving data using SELECT queries
 
-🔧 Skills:
+## Purpose
+To practice foundational SQL and database structure using SQLite.
 
-Languages: Python, SQL, Java (basic understanding)  
-Web Development: HTML, CSS, JavaScript  
-Concepts: Agile, Software Development Fundamentals  
-Soft Skills: Problem Solving, Communication, Team Collaboration  
+## Technologies Used
+- SQLite
+- SQL
 
-🚀 Interests:  
-I enjoy learning how software is built and improving my programming skills through hands-on projects. I am currently focused on building a strong foundation in software development.
-
-🌱 Journey:  
-I am actively transitioning from a non-technical role into the tech industry and continuously learning through practice and personal projects.
-
-🌐 Connect with me:  
-LinkedIn: https://www.linkedin.com/in/busisiwe-zulu-261ba5142/
+## Learning Outcome
+Improved understanding of how databases store and retrieve structured data.
